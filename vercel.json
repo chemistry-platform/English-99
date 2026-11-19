@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/gemini/:action",
+      "destination": "/api/gemini?action=:action"
+    },
+    {
+      "source": "/((?!api/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

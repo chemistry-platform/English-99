@@ -1,0 +1,8 @@
+{
+  "name": "English with Miss Asmaa",
+  "description": "The official English language learning platform for General and Azhar Secondary students - Miss Asmaa",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
